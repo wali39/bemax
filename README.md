@@ -1,0 +1,1 @@
+# bemax-themeforest-paid-theme
