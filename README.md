@@ -1,6 +1,6 @@
 # Bemax
 
-An awesome themeforest portfolio template clone
+<p align="center">`An awesome themeforest portfolio template clone`</p>
 <img src="https://res.cloudinary.com/dl1sztvng/image/upload/v1723935013/w98xtbwj2crviyddi2hm.png" width="931"/>
 
 ## Description
